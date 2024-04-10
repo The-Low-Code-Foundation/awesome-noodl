@@ -1,10 +1,10 @@
-title: Awesome Frappe
-description: A curated list of awesome things related to the Frappe Framework. Maintained by Gavin D'souza
-email: me@gavv.in
-url: https://awesome-frappe.gavv.in
+title: Awesome Noodl
+description: A curated list of awesome things related to Noodl. Maintained by The Low Code Foundation
+email: richard@digitalbricks.io
+url: https://awesome-noodl.com
 author:
-  name: Gavin D'souza
-  url: https://gavv.in/
+  name: Richard Osborne
+  url: https://thelowcodefoundation.com
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
