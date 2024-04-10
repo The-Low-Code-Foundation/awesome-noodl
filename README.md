@@ -10,9 +10,9 @@ Inspired by [awesome-frappe](https://github.com/gavindsouza/awesome-frappe).
 
 Noodl is a front end visual low-code editor for creating React apps. It was created by Swedish company Future Platforms, and open sourced in 2023. It comes with an integrated, optional back end built with Parse Server and MongoDB. Since being open sourced, the original repo has been forked and maintained by various community power users and factions.
 
-[Original Noodl repo](https://github.com/noodlapp/noodl)
-[OpenNoodl fork](https://github.com/The-Low-Code-Foundation/opennoodl)
-[FluxScape fork](https://github.com/fluxscape/fluxscape)
+- [Original Noodl repo](https://github.com/noodlapp/noodl)
+- [OpenNoodl fork](https://github.com/The-Low-Code-Foundation/opennoodl)
+- [FluxScape fork](https://github.com/fluxscape/fluxscape)
 
 ## Contents
 
