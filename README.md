@@ -92,6 +92,7 @@ _Clients built for Noodl, other than the standard Electron desktop app_
 _Resources that can help you harness the power of Noodl_
 
 - [User Guide Docs forked from original repo](https://github.com/The-Low-Code-Foundation/opennoodl-docs)
+- [Newbie Guide with lots of resource references, tips and a Bubble -> Noodl dictionary](https://docs.google.com/spreadsheets/d/1Zzu8caHZjCIjwg-kJo5KdMJTJTEa2Oy30aGrSfrlS0c/edit?usp=sharing)
 
 _Community Channels_
 
